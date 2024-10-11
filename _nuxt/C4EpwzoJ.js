@@ -1,0 +1,1 @@
+import{_ as t}from"./BRNWR361.js";import{g as _,w as n,_ as a,o as c,b as s}from"./B_j0l1yd.js";const x={__name:"resume.docx",setup(m){return(r,u)=>{const e=t,o=a;return c(),_(o,{name:"resume-layout"},{default:n(()=>[s(e)]),_:1})}}};export{x as default};
